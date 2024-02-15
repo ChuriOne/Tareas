@@ -1,0 +1,15 @@
+D:\Tareas de programación\c#\Sentencias de control\Switch-Case\obj\Debug\net8.0\Switch-Case.GeneratedMSBuildEditorConfig.editorconfig
+D:\Tareas de programación\c#\Sentencias de control\Switch-Case\obj\Debug\net8.0\Switch-Case.AssemblyInfoInputs.cache
+D:\Tareas de programación\c#\Sentencias de control\Switch-Case\obj\Debug\net8.0\Switch-Case.AssemblyInfo.cs
+D:\Tareas de programación\c#\Sentencias de control\Switch-Case\obj\Debug\net8.0\Switch-Case.csproj.CoreCompileInputs.cache
+D:\Tareas de programación\c#\Sentencias de control\Switch-Case\obj\Debug\net8.0\Switch-Case.sourcelink.json
+D:\Tareas de programación\c#\Sentencias de control\Switch-Case\bin\Debug\net8.0\Switch-Case.exe
+D:\Tareas de programación\c#\Sentencias de control\Switch-Case\bin\Debug\net8.0\Switch-Case.deps.json
+D:\Tareas de programación\c#\Sentencias de control\Switch-Case\bin\Debug\net8.0\Switch-Case.runtimeconfig.json
+D:\Tareas de programación\c#\Sentencias de control\Switch-Case\bin\Debug\net8.0\Switch-Case.dll
+D:\Tareas de programación\c#\Sentencias de control\Switch-Case\bin\Debug\net8.0\Switch-Case.pdb
+D:\Tareas de programación\c#\Sentencias de control\Switch-Case\obj\Debug\net8.0\Switch-Case.dll
+D:\Tareas de programación\c#\Sentencias de control\Switch-Case\obj\Debug\net8.0\refint\Switch-Case.dll
+D:\Tareas de programación\c#\Sentencias de control\Switch-Case\obj\Debug\net8.0\Switch-Case.pdb
+D:\Tareas de programación\c#\Sentencias de control\Switch-Case\obj\Debug\net8.0\Switch-Case.genruntimeconfig.cache
+D:\Tareas de programación\c#\Sentencias de control\Switch-Case\obj\Debug\net8.0\ref\Switch-Case.dll

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Tareas de programación\\C#\\Sentencias de control\\For,While,Do-While\\For,While,Do-While.csproj": {}
+    "D:\\Tareas de programación\\C#\\Sentencias de control\\for,while,do-while\\For,While,Do-While.csproj": {}
   },
   "projects": {
-    "D:\\Tareas de programación\\C#\\Sentencias de control\\For,While,Do-While\\For,While,Do-While.csproj": {
+    "D:\\Tareas de programación\\C#\\Sentencias de control\\for,while,do-while\\For,While,Do-While.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Tareas de programación\\C#\\Sentencias de control\\For,While,Do-While\\For,While,Do-While.csproj",
+        "projectUniqueName": "D:\\Tareas de programación\\C#\\Sentencias de control\\for,while,do-while\\For,While,Do-While.csproj",
         "projectName": "For,While,Do-While",
-        "projectPath": "D:\\Tareas de programación\\C#\\Sentencias de control\\For,While,Do-While\\For,While,Do-While.csproj",
+        "projectPath": "D:\\Tareas de programación\\C#\\Sentencias de control\\for,while,do-while\\For,While,Do-While.csproj",
         "packagesPath": "C:\\Users\\GAMER\\.nuget\\packages\\",
-        "outputPath": "D:\\Tareas de programación\\C#\\Sentencias de control\\For,While,Do-While\\obj\\",
+        "outputPath": "D:\\Tareas de programación\\C#\\Sentencias de control\\for,while,do-while\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\GAMER\\AppData\\Roaming\\NuGet\\NuGet.Config"

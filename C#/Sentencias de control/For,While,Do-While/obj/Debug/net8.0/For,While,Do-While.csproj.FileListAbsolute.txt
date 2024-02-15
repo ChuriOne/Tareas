@@ -1,0 +1,15 @@
+D:\Tareas de programación\C#\Sentencias de control\for,while,do-while\obj\Debug\net8.0\For,While,Do-While.GeneratedMSBuildEditorConfig.editorconfig
+D:\Tareas de programación\C#\Sentencias de control\for,while,do-while\obj\Debug\net8.0\For,While,Do-While.AssemblyInfoInputs.cache
+D:\Tareas de programación\C#\Sentencias de control\for,while,do-while\obj\Debug\net8.0\For,While,Do-While.AssemblyInfo.cs
+D:\Tareas de programación\C#\Sentencias de control\for,while,do-while\obj\Debug\net8.0\For,While,Do-While.csproj.CoreCompileInputs.cache
+D:\Tareas de programación\C#\Sentencias de control\for,while,do-while\obj\Debug\net8.0\For,While,Do-While.sourcelink.json
+D:\Tareas de programación\C#\Sentencias de control\For,While,Do-While\bin\Debug\net8.0\For,While,Do-While.exe
+D:\Tareas de programación\C#\Sentencias de control\For,While,Do-While\bin\Debug\net8.0\For,While,Do-While.deps.json
+D:\Tareas de programación\C#\Sentencias de control\For,While,Do-While\bin\Debug\net8.0\For,While,Do-While.runtimeconfig.json
+D:\Tareas de programación\C#\Sentencias de control\For,While,Do-While\bin\Debug\net8.0\For,While,Do-While.dll
+D:\Tareas de programación\C#\Sentencias de control\For,While,Do-While\bin\Debug\net8.0\For,While,Do-While.pdb
+D:\Tareas de programación\C#\Sentencias de control\For,While,Do-While\obj\Debug\net8.0\For,While,Do-While.dll
+D:\Tareas de programación\C#\Sentencias de control\For,While,Do-While\obj\Debug\net8.0\refint\For,While,Do-While.dll
+D:\Tareas de programación\C#\Sentencias de control\For,While,Do-While\obj\Debug\net8.0\For,While,Do-While.pdb
+D:\Tareas de programación\C#\Sentencias de control\For,While,Do-While\obj\Debug\net8.0\For,While,Do-While.genruntimeconfig.cache
+D:\Tareas de programación\C#\Sentencias de control\For,While,Do-While\obj\Debug\net8.0\ref\For,While,Do-While.dll

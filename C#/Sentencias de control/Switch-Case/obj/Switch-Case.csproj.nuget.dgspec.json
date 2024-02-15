@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Tareas de programación\\C#\\Sentencias de control\\Switch-Case\\Switch-Case.csproj": {}
+    "D:\\Tareas de programación\\c#\\Sentencias de control\\Switch-Case\\Switch-Case.csproj": {}
   },
   "projects": {
-    "D:\\Tareas de programación\\C#\\Sentencias de control\\Switch-Case\\Switch-Case.csproj": {
+    "D:\\Tareas de programación\\c#\\Sentencias de control\\Switch-Case\\Switch-Case.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Tareas de programación\\C#\\Sentencias de control\\Switch-Case\\Switch-Case.csproj",
+        "projectUniqueName": "D:\\Tareas de programación\\c#\\Sentencias de control\\Switch-Case\\Switch-Case.csproj",
         "projectName": "Switch-Case",
-        "projectPath": "D:\\Tareas de programación\\C#\\Sentencias de control\\Switch-Case\\Switch-Case.csproj",
+        "projectPath": "D:\\Tareas de programación\\c#\\Sentencias de control\\Switch-Case\\Switch-Case.csproj",
         "packagesPath": "C:\\Users\\GAMER\\.nuget\\packages\\",
-        "outputPath": "D:\\Tareas de programación\\C#\\Sentencias de control\\Switch-Case\\obj\\",
+        "outputPath": "D:\\Tareas de programación\\c#\\Sentencias de control\\Switch-Case\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\GAMER\\AppData\\Roaming\\NuGet\\NuGet.Config"
