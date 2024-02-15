@@ -1,0 +1,56 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.002.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "C#", "C#", "{E02E8A32-7BE9-4EE1-AC60-F34BAD6D5875}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Sentencias de control", "Sentencias de control", "{65CC1FDF-F670-4391-8474-BFC2EA271067}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Bucles", "Bucles", "{796A2462-C868-4691-9C42-3E42EFC5C4D7}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Bucles", "C#\Sentencias de control\Bucles\Bucles\Bucles.csproj", "{75BAB490-7734-41B0-9FED-922AD5FDF44F}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "if-else", "if-else", "{11D9A52B-4453-4134-BE47-B781E60B7BC9}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SiNo", "C#\Sentencias de control\if-else\SiNo\SiNo.csproj", "{8CABEFE7-17B8-46E1-B7B9-45C209B62ED8}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "switch-case", "switch-case", "{3DCA3790-E34E-44D4-903A-961B0065F617}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "switch-case", "C#\Sentencias de control\switch-case\switch-case\switch-case.csproj", "{79F6CB05-CDBE-4302-8237-68FDEACF4B40}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{75BAB490-7734-41B0-9FED-922AD5FDF44F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{75BAB490-7734-41B0-9FED-922AD5FDF44F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{75BAB490-7734-41B0-9FED-922AD5FDF44F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{75BAB490-7734-41B0-9FED-922AD5FDF44F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8CABEFE7-17B8-46E1-B7B9-45C209B62ED8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8CABEFE7-17B8-46E1-B7B9-45C209B62ED8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8CABEFE7-17B8-46E1-B7B9-45C209B62ED8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8CABEFE7-17B8-46E1-B7B9-45C209B62ED8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{79F6CB05-CDBE-4302-8237-68FDEACF4B40}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{79F6CB05-CDBE-4302-8237-68FDEACF4B40}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{79F6CB05-CDBE-4302-8237-68FDEACF4B40}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{79F6CB05-CDBE-4302-8237-68FDEACF4B40}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{65CC1FDF-F670-4391-8474-BFC2EA271067} = {E02E8A32-7BE9-4EE1-AC60-F34BAD6D5875}
+		{796A2462-C868-4691-9C42-3E42EFC5C4D7} = {65CC1FDF-F670-4391-8474-BFC2EA271067}
+		{75BAB490-7734-41B0-9FED-922AD5FDF44F} = {796A2462-C868-4691-9C42-3E42EFC5C4D7}
+		{11D9A52B-4453-4134-BE47-B781E60B7BC9} = {65CC1FDF-F670-4391-8474-BFC2EA271067}
+		{8CABEFE7-17B8-46E1-B7B9-45C209B62ED8} = {11D9A52B-4453-4134-BE47-B781E60B7BC9}
+		{3DCA3790-E34E-44D4-903A-961B0065F617} = {65CC1FDF-F670-4391-8474-BFC2EA271067}
+		{79F6CB05-CDBE-4302-8237-68FDEACF4B40} = {3DCA3790-E34E-44D4-903A-961B0065F617}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8BABE1B0-2DBC-493D-8EAE-CF78E2948D2A}
+	EndGlobalSection
+EndGlobal
